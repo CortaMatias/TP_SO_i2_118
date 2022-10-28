@@ -4,6 +4,10 @@ a)
 
 b)
 No se puede.
-Salvo que el estado de fork de GAMMA, sea el estado original del repo.
+Salvo que el estado de fork de GAMMA, sea el estado del repo original.
 
+c) No se puede.
+Salvo que el estaod de fork de ALFA sea el estado del repo original.
+
+d) Se pierden. Siempre y cuando sus cambios no hayan sido aceptados en el repo original.
 
