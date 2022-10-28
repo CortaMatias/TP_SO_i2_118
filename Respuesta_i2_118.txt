@@ -1,0 +1,9 @@
+a)
+-Voy a mi repositorio forkeado
+-En la opcion "Sync fork" toco "Update branch"
+
+b)
+No se puede.
+Salvo que el estado de fork de GAMMA, sea el estado original del repo.
+
+
