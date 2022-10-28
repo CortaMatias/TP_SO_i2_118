@@ -11,3 +11,51 @@ Salvo que el estaod de fork de ALFA sea el estado del repo original.
 
 d) Se pierden. Siempre y cuando sus cambios no hayan sido aceptados en el repo original.
 
+e) 
+Matias Corta: crea el repositorio y crea los txt readme y fork.
+1. git add .
+2 git commit -m ""
+3 git push
+
+Cristian Cabanillas: hace un fork y lo descarga de forma local y luego modifica el archivo fork con sus datos.
+1 git clone 
+2. git add .
+3 git commit -m ""
+4 git push
+
+Mateo Elisaleco :hace un fork y lo descarga de forma local y luego modifica el archivo fork con sus datos.
+1 git clone 
+2. git add .
+3 git commit -m ""
+4 git push
+
+Matias Corta: creal el archio nuevo_Dato.txt.
+1. git add .
+2 git commit -m ""
+3 git push
+
+Cristian Cabanillas y Mateo Elisaleco: Actualizaron sus fork al repositorio original. A traves de la pagina de github.
+
+Matias Corta: creo el archivo respuesta_I2_EquipoX
+1. git add .
+2 git commit -m ""
+3 git push
+
+Cristian Cabanillas: actualiza su fork al estado del repositorio original y contesta las preguntas a y b. Luego solicita la contribucion al repositorio original 
+1. git add .
+2 git commit -m ""
+3 git push
+
+Matias Corta: Acepta la contribucion del fork  de Cristian, clona su repositorio de forma local y contesta las preguntas c y d.
+1.git clone
+2.git add 
+3.git commit -m ""
+4 git push
+
+Mateo Elisaleco : actualiza su fork al estado del repositorio original y contesta la pregunta e. Luego solicita la contribucion al repositorio original.
+1.git clone
+2.git add 
+3.git commit -m ""
+4 git push
+
+Matias Corta: Acepta la contribucion del fork de Mateo.
